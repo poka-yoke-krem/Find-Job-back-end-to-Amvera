@@ -3,6 +3,3 @@ meta:
   toolchain:
     name: npm
     version: 18
-
-run:
-  scriptName: app.js
